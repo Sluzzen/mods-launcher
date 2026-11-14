@@ -1,0 +1,6 @@
+# Excluir mods que superen el limite estricto de GitHub de 100MB
+# (Estos mods se descargan directamente desde CDN oficial segun mods-manifest.json)
+mods/Flashback*
+mods/watermedia_binaries*
+*.tmp
+.DS_Store
